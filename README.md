@@ -8,8 +8,8 @@ CGPA: 3.67
 Over 160 solved questions at leetcode & codeforce
 Passionate to learn new things , looking forward new experiences and challenges.
 # -Contact-
-LinkedIn Profile: https://www.linkedin.com/in/mazen-darweesh-67832a254/|
-LeetCode Profile : https://leetcode.com/mazentharwatfathy/|
+LinkedIn Profile: https://www.linkedin.com/in/mazen-darweesh-67832a254/ |
+LeetCode Profile : https://leetcode.com/mazentharwatfathy/ |
 Codeforces Profile: https://codeforces.com/profile/Mazen_TH
 # -Languages-
 Arabic: (Mother tongue).
